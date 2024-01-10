@@ -1,21 +1,33 @@
 {
-    "title": "Electronic Notebook: Github Template for Scientific Datasets to be Deposited on Zenodo.org",
-    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in ...",
+    "title": "Electronic Notebook: A multiscale numerical approach to study monoclonal antibodies in solution",
+    "description": "This repository contains electronic notebooks (Jupyter) for reproducing the simulation results presented in the scientific paper A multiscale numerical approach to study monoclonal antibodies in solution.",
     "creators": [
         {
-            "name": "Jane Doe",
-            "affiliation": "Some university...",
-            "orcid": "0000-0000-0000-0000"
+            "name": "Marco Polimeni",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0002-9670-7232"
         }
     ],
     "contributors": [
         {
-            "name": "Alfons Åberg",
-            "affiliation": "Department of ...",
-            "orcid": "0000-0000-0000-0000",
-            "type": "Researcher"
+            "name": "Mikael Lund",
+            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
+            "type": "Researcher",
+            "orcid": "0000-0001-8178-8175"
+        },
+        {
+            "name": "Emanuela Zaccarelli",
+            "orcid": "0000-0003-0032-8906",
+            "type": "Researcher",
+            "affiliation": "Department of Physics, Sapienza University of Rome, Italy"
+        },
+        {
+            "name": "Peter Schurtenberger",
+            "orcid": "0000-0002-2790-8831",
+            "type": "Researcher",
+            "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden"
         }
-    ],
+   ],
     "keywords": [
         "reproducible science",
         "electronic notebook"
@@ -23,14 +35,8 @@
     "related_identifiers": [
         {
             "scheme": "url",
-            "identifier": "https://github.com/mlund/template-for-supporting-information",
+            "identifier": "https://github.com/mlund/SI-multiscale-antibodies",
             "relation": "isSupplementTo"
-        },
-        {
-            "scheme": "doi",
-            "identifier": "doi-goes-here",
-            "relation": "isSupplementTo",
-            "resource_type": "publication-article"
         }
     ],
     "license": "CC-BY-4.0",
