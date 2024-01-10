@@ -6,31 +6,32 @@
             "name": "Marco Polimeni",
             "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden",
             "orcid": "0000-0002-9670-7232"
-        }
-    ],
-    "contributors": [
-        {
-            "name": "Mikael Lund",
-            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
-            "type": "Researcher",
-            "orcid": "0000-0001-8178-8175"
         },
         {
             "name": "Emanuela Zaccarelli",
             "orcid": "0000-0003-0032-8906",
-            "type": "Researcher",
             "affiliation": "Department of Physics, Sapienza University of Rome, Italy"
+        },
+        {
+            "name": "Mikael Lund",
+            "affiliation": "Division of Computational Chemistry, Department of Chemistry, Lund University, Sweden",
+            "orcid": "0000-0001-8178-8175"
         },
         {
             "name": "Peter Schurtenberger",
             "orcid": "0000-0002-2790-8831",
-            "type": "Researcher",
             "affiliation": "Division of Physical Chemistry, Department of Chemistry, Lund University, Sweden"
         }
-   ],
+    ],
+    "contributors": [
+    ],
     "keywords": [
         "reproducible science",
-        "electronic notebook"
+        "electronic notebook",
+        "monoclonal antibody",
+        "multiscale simulation",
+        "metropolis-hastings monte carlo",
+        "small angle x-ray scattering"
     ],
     "related_identifiers": [
         {

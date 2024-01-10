@@ -2,6 +2,7 @@ name: my_environment
 channels:
     - conda-forge
 dependencies:
+    - faunus=2
     - jupyterlab
     - matplotlib=3
     - notebook

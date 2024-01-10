@@ -11,6 +11,10 @@ scientific paper _A multiscale numerical approach to study monoclonal antibodies
 
 ## Layout
 
+- `assets` Graphics
+- `experiment` Experimental SAXS data
+- `simulations` Metropolis-Hastings Monte Carlo setup and analysis
+
 ## Requirements
 
 To run the Notebooks online, click on the _Launch Binder_ badge above. Alternatively, to run on your own computer,
